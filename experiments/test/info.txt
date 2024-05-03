@@ -1,0 +1,1 @@
+This folder should have the same name as the experiment name. For example, if your experiment has the name 'test', then this folder should have the same name. It will contain all the files for the experiment. It should contain a folder with the name 'Run'.
